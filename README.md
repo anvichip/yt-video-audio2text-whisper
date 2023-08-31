@@ -12,7 +12,9 @@ This project utilizes the Whisper AI tool to transcribe spoken audio segments fr
 
 2. Execute the provided code cells in the notebook. The notebook will use the Whisper AI results to format the transcriptions.
    
-3. Run the main() function code block in Google Colab. 
+3. Run the main() function code block in Google Colab.
+   
+4. You will encounter a prompt to enter the link of the Youtube video. Enter the link then press enter.
 
 5. Once the notebook has finished executing, a text file named `transcribed_text.txt` will be created in the same directory.
 
