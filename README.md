@@ -26,6 +26,8 @@ The following Python libraries are used in this project:
 - Pytube: The Pytube library is used to download YouTube videos.
 - Torch: The Torch library is used for neural network computations.
 
+# You can find an article with the explanation of the code at https://medium.com/@anvikohli13/convert-youtube-videos-into-subtitled-text-with-whisper-ai-and-pytube-6043b3fe9fa3
+
 ## Installation
 
 No separate installation is required for Whisper AI within Google Colab. The Pytube library will be installed using the command `!pip -qqq install pytube` within the notebook.
