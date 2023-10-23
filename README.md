@@ -1,4 +1,4 @@
-# Whisper AI YouTube Transcription Project
+# Whisper AI YouTube Transcription 
 
 This project demonstrates how to use the Whisper AI tool to transcribe audio from a YouTube video into formatted text with timestamps. The Pytube library is used to download the video from the YouTube link.
 
